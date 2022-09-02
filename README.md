@@ -1,2 +1,23 @@
-# cafe-management-application-
-It is simple application system developed  using Java to manage the product ,bill , user details .
+# Coffee-House 
+It is simple application system developed  using Java  User can signIn/SignUp the application and order various food items .
+Admin can keep track of product, user, and sales information , and keep track of the cafe’s inventory.
+
+# SignUp page
+![Screenshot (910)](https://user-images.githubusercontent.com/88956395/188107539-ee196e63-332a-409d-bf07-7bd1d1224f7a.png)
+
+# Confirmation message after successful registration 
+![Screenshot (907)](https://user-images.githubusercontent.com/88956395/188107396-ab33bfc4-a036-455c-8f50-c9856909e58a.png)
+
+# Login Page
+![Screenshot (908)](https://user-images.githubusercontent.com/88956395/188107452-47235031-ebc2-451b-9973-29aba7fb3393.png)
+
+# Home Page
+![Screenshot (913)](https://user-images.githubusercontent.com/88956395/188107691-cbc3bf3f-1813-4a75-af79-42bdfd2a59ee.png)
+# Getting suggestions when user selects category of product
+![Screenshot (914)](https://user-images.githubusercontent.com/88956395/188107936-1cb24d2f-b9a0-4d7c-9949-c5d1cda105be.png)
+
+# confirmation message when user genarate bill
+![Screenshot (916)](https://user-images.githubusercontent.com/88956395/188108174-dddca432-9044-478a-9d6b-f5083736950e.png)
+
+# Bill generated in pdf formate
+![Screenshot (918)](https://user-images.githubusercontent.com/88956395/188108522-0c7c64a7-724b-4eb2-9f3c-fac408c31b54.png)
