@@ -30,3 +30,9 @@ Admin can keep track of product, user, and sales information , and keep track of
 
 # Password Updation
 ![Screenshot (921)](https://user-images.githubusercontent.com/88956395/188112915-ffb34fcd-2763-4eaf-a743-c44329f69bc2.png)
+
+# add new product
+![Screenshot (922)](https://user-images.githubusercontent.com/88956395/188113863-609164d1-a6cc-4453-a173-8385a8359a78.png)
+
+# View , Edit & update Product details
+![Screenshot (925)](https://user-images.githubusercontent.com/88956395/188113804-964b345e-687c-466c-bc3c-1150499abaa8.png)
