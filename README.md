@@ -36,3 +36,8 @@ Admin can keep track of product, user, and sales information , and keep track of
 
 # View , Edit & update Product details
 ![Screenshot (925)](https://user-images.githubusercontent.com/88956395/188113804-964b345e-687c-466c-bc3c-1150499abaa8.png)
+
+# exit the application 
+![Screenshot (926)](https://user-images.githubusercontent.com/88956395/188114158-d9940312-8ecf-4322-a582-35c85f5b1a7d.png)
+
+
