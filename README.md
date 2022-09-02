@@ -1,5 +1,5 @@
 # Coffee-House 
-It is simple application system developed  using Java  User can signIn/SignUp the application and order various food items .
+It is desktop application  developed  using Java swing where user can signIn/SignUp the application and order various food items .
 Admin can keep track of product, user, and sales information , and keep track of the cafe’s inventory. where user's information is in encoded format .
 
 # SignUp page
