@@ -1,6 +1,6 @@
 # Coffee-House 
 It is simple application system developed  using Java  User can signIn/SignUp the application and order various food items .
-Admin can keep track of product, user, and sales information , and keep track of the cafe’s inventory.
+Admin can keep track of product, user, and sales information , and keep track of the cafe’s inventory. where user's information is in encoded format .
 
 # SignUp page
 ![Screenshot (910)](https://user-images.githubusercontent.com/88956395/188107539-ee196e63-332a-409d-bf07-7bd1d1224f7a.png)
@@ -21,3 +21,12 @@ Admin can keep track of product, user, and sales information , and keep track of
 
 # Bill generated in pdf formate
 ![Screenshot (918)](https://user-images.githubusercontent.com/88956395/188108522-0c7c64a7-724b-4eb2-9f3c-fac408c31b54.png)
+
+# Forgot Password
+![Screenshot (919)](https://user-images.githubusercontent.com/88956395/188110397-847ccb0c-0ee1-4a2d-8633-ab96dfd3007d.png)
+
+# Change Password
+![Screenshot (920)](https://user-images.githubusercontent.com/88956395/188112901-51a31b5a-b96b-48f7-ab00-60465f60d4a6.png)
+
+# Password Updation
+![Screenshot (921)](https://user-images.githubusercontent.com/88956395/188112915-ffb34fcd-2763-4eaf-a743-c44329f69bc2.png)
